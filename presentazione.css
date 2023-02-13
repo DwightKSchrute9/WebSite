@@ -35,7 +35,7 @@ body {
 
   
   #tattoo-page {
-    background-image: url(./assetts/bkgr.jpg);
+    background-image: url(./asset/bkgr.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
